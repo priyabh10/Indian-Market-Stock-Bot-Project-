@@ -23,7 +23,7 @@ api = SmartConnect(api_key="7WMNL6yT")
 # client ID : M57033620
 
 # username: alive.harry@gmail.com
-# password: Toriox@123
+# password: *********
 
 # Login and generate a session
 login_data = api.generateSession(client_id="M57033620", 
